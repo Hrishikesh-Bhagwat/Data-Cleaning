@@ -1,4 +1,4 @@
-# Cleaning Data Source 🚀#
+# Cleaning Data Source 🚀 #
 ## Motivation ##
 This project has been built during NASA Space Apps Challenge 2021 🌍. We Debris_Mappers, are working on a web app for 'Mapping Space Trash in Real Time' 🗑. Indeed Space Trash is a matter of grave concern for potential space explorations.
 ### Data Cleaning is a highly underrated part of any project. ### 
